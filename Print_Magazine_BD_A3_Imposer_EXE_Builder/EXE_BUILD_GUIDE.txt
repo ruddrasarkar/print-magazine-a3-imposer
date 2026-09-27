@@ -1,0 +1,8 @@
+WINDOWS EXE BUILD
+1. Create a GitHub repository.
+2. Upload everything in this folder to it.
+3. Open Actions -> Build Windows EXE.
+4. Click Run workflow.
+5. Download the artifact PrintMagazineBD-A3-Imposer-Windows.
+6. Unzip on Windows and double-click PrintMagazineBD_A3_Imposer.exe.
+No Python, VS Code, pip, or Terminal is needed on the Windows machine.
